@@ -1,2 +1,2 @@
-# procloud-freelancer-platform
-Upwork-style marketplace for Zimbabwean clients &amp; freelancers, cash-based payments
+Initial repository setup with project overview, tech stack and features
+
